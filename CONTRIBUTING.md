@@ -12,6 +12,7 @@ Wir freuen uns über Ihre Beiträge zu diesem Projekt! Hier sind einige Richtlin
 ## Stilrichtlinien
 - Verwenden Sie konsistente Einrückungen (2 Leerzeichen).
 - Schreiben Sie klaren und prägnanten Code.
+- Verfassen Sie aussagekräftige Commit-Nachrichten.
 
 ## Fragen
 Bei Fragen wenden Sie sich bitte an die Projektadministratoren.
