@@ -16,3 +16,6 @@ Wir freuen uns über Ihre Beiträge zu diesem Projekt! Hier sind einige Richtlin
 
 ## Fragen
 Bei Fragen wenden Sie sich bitte an die Projektadministratoren.
+
+## Weitere Ressourcen
+Weitere Informationen finden Sie in der [README](README.md).
