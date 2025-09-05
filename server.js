@@ -8,13 +8,13 @@ app.use(cors());
 app.use(express.json());
 
 // Dummy data
-const lokaleLebensmittel = [
+const lokaleLebensmitteln = [
   { id: 1, name: 'Bio-Bauernmarkt', type: 'Markt', location: 'Musterstadt', rating: 4.5 },
   { id: 2, name: 'ÖkoLaden', type: 'Laden', location: 'Musterstadt', rating: 4.8 }
 ];
 
 app.get('/api/lokale', (req, res) => {
-  res.json(lokaleLebensmittel);
+  res.json(lokaleLebensmitteln);
 });
 
 app.listen(port, () => {
