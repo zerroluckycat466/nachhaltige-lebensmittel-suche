@@ -18,5 +18,5 @@ app.get('/api/lokale', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Server läuft auf http://localhost:${port}`);
+  console.log(`Server is running on http://localhost:${port}`);
 });
