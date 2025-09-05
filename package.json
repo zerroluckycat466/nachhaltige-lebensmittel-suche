@@ -1,6 +1,6 @@
 {
   "name": "nachhaltige-lebensmittel-suche",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "API for sustainable food sources",
   "main": "server.js",
   "scripts": {
