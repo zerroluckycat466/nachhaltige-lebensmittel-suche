@@ -9,7 +9,7 @@ app.use(express.json());
 
 // Dummy data
 const lokaleLebensmittel = [
-  { id: 1, name: 'Bio-Bauernmarkt', type: 'Markt', location: 'Musterstadt', rating: 4.5 },
+  { id: 1, name: 'Bio-Bauernmarkt', type: 'Markt', location: 'Beispielstadt', rating: 4.5 },
   { id: 2, name: 'Öko-Laden', type: 'Laden', location: 'Beispielstadt', rating: 4.8 }
 ];
 
